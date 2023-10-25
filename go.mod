@@ -1,3 +1,3 @@
-module github.com/duckfatstudios/dfs-go-networking
+module github.com/duck-fat-studios/dfs-go-networking
 
 go 1.21.3
